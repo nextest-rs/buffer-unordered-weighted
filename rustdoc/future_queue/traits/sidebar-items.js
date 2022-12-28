@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["GroupedWeightedFuture","A trait for types which can be converted into a `Future`, an optional group, and a weight."],["WeightedFuture","A trait for types which can be converted into a `Future` and a weight."]]};

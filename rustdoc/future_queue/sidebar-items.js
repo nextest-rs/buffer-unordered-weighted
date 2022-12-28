@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["traits","Traits to aid in type definitions."]],"struct":[["FutureQueue","Stream for the `future_queue` method."],["FutureQueueGrouped","Stream for the `future_queue_grouped` method."]],"trait":[["StreamExt","An extension trait for `Stream`s that provides `future_queue`."]]};
